@@ -1,0 +1,8 @@
+package com.example.examplemod;
+
+import net.minecraft.Block;
+
+public class RadationBlock extends Block {
+	public 
+
+}
